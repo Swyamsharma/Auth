@@ -141,4 +141,4 @@ All routes are prefixed with `/api/auth`.
 | `GET`  | `/me`                       | Get the profile of the currently logged-in user.  | Private  |
 
 
-# NOTE : Do check the package.json in the server directory, the npm start command is modified. "start": "nodemon --exec 'node -r dotenv/config server.js'". Also, I'm using sendgrid as SMTP host.
+### NOTE : Do check the package.json in the server directory, the npm start command is modified. "start": "nodemon --exec 'node -r dotenv/config server.js'". Also, I'm using sendgrid as SMTP host.
